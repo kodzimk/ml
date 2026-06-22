@@ -1,0 +1,4 @@
+# Ignore large datasets
+*.tsv
+*.h5ad
+*.tar.gz
